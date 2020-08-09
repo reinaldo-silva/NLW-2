@@ -19,6 +19,7 @@ module.exports = {
     'class-methods-use-this': 'off',
     'no-param-reassign': 'off',
     camelcase: 'off',
+    "react/jsx-props-no-spreading": "off",
     'no-unused-vars': ['error', { argsIgnorePattern: 'next' }],
     'react/jsx-filename-extension': [
       2,
